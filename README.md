@@ -5,3 +5,4 @@ O arquido dados_toyexemple gera dados para serem implementato um metamodelo  uti
 Outro metamodelo gerado foi o CSTR_ESN_internet, que usado os dados csrt.dat e o pyesn.
 Os arquivos dados_CSTR e dados_CSTR_teste usam os arquivos model_CSRT e PySinal para gerar dados a fim de  obter  e testar o metamodelo CSTR_ENS.
 O arquivo OTM é usado para fazer a otimização  dos hiperparametros utilisados pela rede.
+O arquivo Step_CSTR foi usado para entender o comportamento do Reator.
